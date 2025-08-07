@@ -30,5 +30,9 @@ It serves as a good example for learning **component-based architecture**, **sta
 
 ![General Output at a time](src/assets/General_output.png)
 
+## Live Preview
+
+[You can use this link to preview the like app](https://todoappbycg.netlify.app/)
+
 
 
