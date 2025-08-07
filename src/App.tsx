@@ -1,9 +1,12 @@
-import React from 'react'
+import TodoApp from "./components/TodoApp";
+import "./index.css";
 
-const App = () => {
+function App() {
   return (
-    <div>App</div>
-  )
+    <div className="min-h-screen bg-gray-100">
+      <TodoApp />
+    </div>
+  );
 }
 
-export default App
+export default App;
